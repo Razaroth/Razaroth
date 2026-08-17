@@ -23,14 +23,16 @@
 
 <table>
   <tr>
-    <td align="center"><a href="https://github.com/Razaroth/cardbinder"><img src="previews/cardbinder-preview.svg" alt="CardBinder" width="100%"></a></td>
-    <td align="center"><a href="https://github.com/Razaroth/battleship"><img src="previews/battleship-preview.svg" alt="Battleship" width="100%"></a></td>
-    <td align="center"><a href="https://github.com/Razaroth/omarchy-update-app-under-cursor"><img src="previews/omarchy-update-preview.svg" alt="Omarchy Update" width="100%"></a></td>
+    <td align="center" width="50%"><a href="https://github.com/Razaroth/cardbinder"><img src="previews/cardbinder-preview.svg" alt="CardBinder" width="100%"></a></td>
+    <td align="center" width="50%"><a href="https://github.com/Razaroth/battleship"><img src="previews/battleship-preview.svg" alt="Battleship" width="100%"></a></td>
   </tr>
   <tr>
-    <td align="center"><a href="https://github.com/Razaroth/image2stl"><img src="previews/image2stl-preview.svg" alt="Image2STL" width="100%"></a></td>
-    <td align="center"><a href="https://github.com/Razaroth/Refurbstation"><img src="previews/refurbstation-preview.svg" alt="Refurbstation" width="100%"></a></td>
-    <td align="center"><a href="https://github.com/Razaroth/Cyberpunk-2077-MMORPG-Discord-Bot"><img src="previews/cyberpunk-preview.svg" alt="Cyberpunk MMORPG Bot" width="100%"></a></td>
+    <td align="center" width="50%"><a href="https://github.com/Razaroth/omarchy-update-app-under-cursor"><img src="previews/omarchy-update-preview.svg" alt="Omarchy Update" width="100%"></a></td>
+    <td align="center" width="50%"><a href="https://github.com/Razaroth/image2stl"><img src="previews/image2stl-preview.svg" alt="Image2STL" width="100%"></a></td>
+  </tr>
+  <tr>
+    <td align="center" width="50%"><a href="https://github.com/Razaroth/Refurbstation"><img src="previews/refurbstation-preview.svg" alt="Refurbstation" width="100%"></a></td>
+    <td align="center" width="50%"><a href="https://github.com/Razaroth/Cyberpunk-2077-MMORPG-Discord-Bot"><img src="previews/cyberpunk-preview.svg" alt="Cyberpunk MMORPG Bot" width="100%"></a></td>
   </tr>
 </table>
 
