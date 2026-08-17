@@ -1,74 +1,37 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="900" height="300" viewBox="0 0 900 300">
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="120" viewBox="0 0 400 120">
   <defs>
     <filter id="glow">
-      <feGaussianBlur stdDeviation="3" result="coloredBlur"/>
+      <feGaussianBlur stdDeviation="2" result="coloredBlur"/>
       <feMerge>
         <feMergeNode in="coloredBlur"/>
         <feMergeNode in="SourceGraphic"/>
       </feMerge>
     </filter>
-    <filter id="glow-strong">
-      <feGaussianBlur stdDeviation="6" result="coloredBlur"/>
-      <feMerge>
-        <feMergeNode in="coloredBlur"/>
-        <feMergeNode in="SourceGraphic"/>
-      </feMerge>
-    </filter>
-    <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#44cc11;stop-opacity:0.2" />
-      <stop offset="50%" style="stop-color:#44cc11;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#44cc11;stop-opacity:0.2" />
-    </linearGradient>
   </defs>
-  
+
   <!-- Background -->
-  <rect width="900" height="300" fill="#0d0d1a"/>
-  
-  <!-- Grid pattern -->
-  <g opacity="0.05">
-    <line x1="0" y1="50" x2="900" y2="50" stroke="#44cc11" stroke-width="0.5"/>
-    <line x1="0" y1="100" x2="900" y2="100" stroke="#44cc11" stroke-width="0.5"/>
-    <line x1="0" y1="150" x2="900" y2="150" stroke="#44cc11" stroke-width="0.5"/>
-    <line x1="0" y1="200" x2="900" y2="200" stroke="#44cc11" stroke-width="0.5"/>
-    <line x1="0" y1="250" x2="900" y2="250" stroke="#44cc11" stroke-width="0.5"/>
-    <line x1="100" y1="0" x2="100" y2="300" stroke="#44cc11" stroke-width="0.5"/>
-    <line x1="200" y1="0" x2="200" y2="300" stroke="#44cc11" stroke-width="0.5"/>
-    <line x1="300" y1="0" x2="300" y2="300" stroke="#44cc11" stroke-width="0.5"/>
-    <line x1="400" y1="0" x2="400" y2="300" stroke="#44cc11" stroke-width="0.5"/>
-    <line x1="500" y1="0" x2="500" y2="300" stroke="#44cc11" stroke-width="0.5"/>
-    <line x1="600" y1="0" x2="600" y2="300" stroke="#44cc11" stroke-width="0.5"/>
-    <line x1="700" y1="0" x2="700" y2="300" stroke="#44cc11" stroke-width="0.5"/>
-    <line x1="800" y1="0" x2="800" y2="300" stroke="#44cc11" stroke-width="0.5"/>
-  </g>
+  <rect width="400" height="120" rx="8" fill="#1a1a2e"/>
 
-  <!-- Decorative corner brackets -->
-  <g stroke="#44cc11" stroke-width="2" fill="none" opacity="0.6">
-    <polyline points="30,30 30,10 50,10"/>
-    <polyline points="870,30 870,10 850,10"/>
-    <polyline points="30,270 30,290 50,290"/>
-    <polyline points="870,270 870,290 850,290"/>
-  </g>
+  <!-- Left accent line -->
+  <line x1="20" y1="25" x2="20" y2="95" stroke="#44cc11" stroke-width="2" opacity="0.6"/>
 
-  <!-- Top decorative line -->
-  <text x="450" y="35" text-anchor="middle" fill="#44cc11" font-family="monospace" font-size="11" opacity="0.5" filter="url(#glow)">╔══════════════════════════════════════════════════════════════════════════╗</text>
+  <!-- R icon mark -->
+  <text x="55" y="78" text-anchor="middle" fill="#44cc11" font-family="monospace" font-size="42" font-weight="bold" filter="url(#glow)">R</text>
 
-  <!-- Main title RAZAROTH with glow -->
-  <text x="450" y="100" text-anchor="middle" fill="url(#grad)" font-family="monospace" font-size="52" font-weight="bold" filter="url(#glow-strong)">RAZAROTH</text>
-  
-  <!-- ASCII underline -->
-  <text x="450" y="135" text-anchor="middle" fill="#44cc11" font-family="monospace" font-size="14" opacity="0.7" filter="url(#glow)">▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</text>
+  <!-- Vertical separator -->
+  <line x1="80" y1="35" x2="80" y2="85" stroke="#44cc11" stroke-width="1" opacity="0.3"/>
 
-  <!-- Bottom decorative line -->
-  <text x="450" y="165" text-anchor="middle" fill="#44cc11" font-family="monospace" font-size="11" opacity="0.5" filter="url(#glow)">╚══════════════════════════════════════════════════════════════════════════╝</text>
+  <!-- Username -->
+  <text x="95" y="62" fill="#e0e0e0" font-family="monospace" font-size="24" font-weight="bold" letter-spacing="4">RAZAROTH</text>
 
   <!-- Tagline -->
-  <text x="450" y="210" text-anchor="middle" fill="#666666" font-family="monospace" font-size="14" filter="url(#glow)">╔═════════════════════════════════════════════════╗</text>
-  <text x="450" y="235" text-anchor="middle" fill="#44cc11" font-family="monospace" font-size="14" filter="url(#glow)">║  IT PROFESSIONAL · PROGRAMMER · LINUX DEV  ║</text>
-  <text x="450" y="260" text-anchor="middle" fill="#666666" font-family="monospace" font-size="14" filter="url(#glow)">╚═════════════════════════════════════════════════╝</text>
+  <text x="95" y="82" fill="#44cc11" font-family="monospace" font-size="10" opacity="0.7" letter-spacing="2">IT PROFESSIONAL / PROGRAMMER</text>
 
-  <!-- Decorative dots -->
-  <circle cx="100" cy="150" r="2" fill="#44cc11" opacity="0.3"/>
-  <circle cx="800" cy="150" r="2" fill="#44cc11" opacity="0.3"/>
-  <circle cx="150" cy="200" r="1" fill="#44cc11" opacity="0.2"/>
-  <circle cx="750" cy="200" r="1" fill="#44cc11" opacity="0.2"/>
+  <!-- Bottom accent line -->
+  <line x1="95" y1="90" x2="380" y2="90" stroke="#44cc11" stroke-width="1" opacity="0.2"/>
+
+  <!-- Small decorative dots -->
+  <circle cx="370" cy="45" r="2" fill="#44cc11" opacity="0.3"/>
+  <circle cx="380" cy="55" r="1.5" fill="#44cc11" opacity="0.2"/>
+  <circle cx="375" cy="65" r="1" fill="#44cc11" opacity="0.15"/>
 </svg>
