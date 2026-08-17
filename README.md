@@ -61,6 +61,12 @@
 
 ---
 
+## ![](https://img.shields.io/badge/Contribution_Graph-333333?style=for-the-badge)
+
+<p align="center"><img src="https://raw.githubusercontent.com/Razaroth/Razaroth/output/github-snake-dark.svg" alt="Snake eating contributions"></p>
+
+---
+
 ## ![](https://img.shields.io/badge/Contact-333333?style=for-the-badge)
 
 [![Email](https://img.shields.io/badge/Email-jlester319@gmail.com-44cc11?style=flat-square&logo=gmail&logoColor=white&labelColor=333333)](mailto:jlester319@gmail.com)
