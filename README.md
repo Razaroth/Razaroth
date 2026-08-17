@@ -1,4 +1,4 @@
-<p align="center"><img src="razaroth-banner.svg?v=6" alt="Razaroth Banner"></p>
+<p align="center"><img src="razaroth-banner.svg?v=7" alt="Razaroth Banner"></p>
 
 > I am a 42 year old IT Professional/Programmer that loves to create plugins for Linux (specifically Omarchy).
 
