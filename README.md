@@ -2,6 +2,12 @@
 
 > I am a 42 year old IT Professional/Programmer that loves to create plugins for Linux (specifically Omarchy).
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Repos-19-44cc11?style=flat-square&labelColor=333333" alt="Repos">
+  <img src="https://img.shields.io/badge/Followers-1-44cc11?style=flat-square&labelColor=333333" alt="Followers">
+  <img src="https://img.shields.io/badge/Stars-1-44cc11?style=flat-square&labelColor=333333" alt="Stars">
+</p>
+
 ---
 
 ## ![](https://img.shields.io/badge/Tech_Stack-333333?style=for-the-badge)
@@ -35,6 +41,31 @@
     <td align="center" width="50%"><a href="https://github.com/Razaroth/Cyberpunk-2077-MMORPG-Discord-Bot"><img src="previews/cyberpunk-preview.svg" alt="Cyberpunk MMORPG Bot" width="100%"></a></td>
   </tr>
 </table>
+
+---
+
+## ![](https://img.shields.io/badge/Currently_Working_On-44cc11?style=for-the-badge&labelColor=333333)
+
+- ![](https://img.shields.io/badge/Linux-Plugin-Development-333333?style=flat-square&labelColor=44cc11) Omarchy plugins & tools
+- ![](https://img.shields.io/badge/Web_Apps-333333?style=flat-square&labelColor=44cc11) Full-stack projects
+- ![](https://img.shields.io/badge/Discord_Bots-333333?style=flat-square&labelColor=44cc11) Community bots & games
+- ![](https://img.shields.io/badge/3D_Printing_Tools-333333?style=flat-square&labelColor=44cc11) Image-to-STL conversion
+
+---
+
+## ![](https://img.shields.io/badge/GitHub_Activity-333333?style=for-the-badge)
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Razaroth&show_icons=true&theme=dark&bg_color=0d1117&border_color=333333&title_color=44cc11&icon_color=44cc11&text_color=e6edf3&hide_border=false" alt="GitHub Stats"></p>
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Razaroth&layout=compact&theme=dark&bg_color=0d1117&border_color=333333&title_color=44cc11&text_color=e6edf3&langs_count=8" alt="Top Languages"></p>
+
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Razaroth&theme=dark&background=0d1117&border=333333&ring=44cc11&fire=44cc11&currStreakLabel=44cc11&sideLabels=e6edf3" alt="Streak Stats"></p>
+
+---
+
+## ![](https://img.shields.io/badge/Contribution_Graph-333333?style=for-the-badge)
+
+<p align="center"><img src="https://raw.githubusercontent.com/Razaroth/Razaroth/output/github-snake-dark.svg" alt="Snake eating contributions"></p>
 
 ---
 
