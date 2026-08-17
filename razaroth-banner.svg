@@ -9,6 +9,9 @@
     </filter>
   </defs>
 
+  <!-- Background matching GitHub dark theme -->
+  <rect width="400" height="120" fill="#0d1117"/>
+
   <!-- Left accent line -->
   <line x1="20" y1="25" x2="20" y2="95" stroke="#44cc11" stroke-width="2" opacity="0.6"/>
 
@@ -19,7 +22,7 @@
   <line x1="80" y1="35" x2="80" y2="85" stroke="#44cc11" stroke-width="1" opacity="0.3"/>
 
   <!-- Username -->
-  <text x="95" y="62" fill="#24292e" font-family="monospace" font-size="24" font-weight="bold" letter-spacing="4">RAZAROTH</text>
+  <text x="95" y="62" fill="#e6edf3" font-family="monospace" font-size="24" font-weight="bold" letter-spacing="4">RAZAROTH</text>
 
   <!-- Tagline -->
   <text x="95" y="82" fill="#44cc11" font-family="monospace" font-size="10" opacity="0.8" letter-spacing="2">IT PROFESSIONAL / PROGRAMMER</text>
