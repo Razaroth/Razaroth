@@ -57,21 +57,7 @@
 
 <p align="center"><img src="https://github-stats.vercel.app/api?username=Razaroth" alt="GitHub Stats"></p>
 
-<p align="center"><img src="https://github-stats.vercel.app/api/top-langs?username=Razaroth&layout=compact&langs_count=8" alt="Top Languages"></p>
-
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Razaroth&theme=dark" alt="Streak Stats"></p>
-
----
-
-## ![](https://img.shields.io/badge/Contribution_Graph-333333?style=for-the-badge)
-
-<p align="center"><img src="https://raw.githubusercontent.com/Razaroth/Razaroth/output/github-snake-dark.svg" alt="Snake eating contributions"></p>
-
----
-
-## ![](https://img.shields.io/badge/Stats-333333?style=for-the-badge)
-
-![Total Stars](https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=&query=$.stars&url=https://api.github-star-counter.workers.dev/user/Razaroth&color=44cc11&labelColor=333333)
 
 ---
 
