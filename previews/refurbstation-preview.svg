@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="300" viewBox="0 0 600 300">
+  <rect width="600" height="300" rx="8" fill="#1a1a2e"/>
+  <rect x="50" y="40" width="200" height="200" rx="4" fill="#0d1117" stroke="#44cc11" stroke-width="1"/>
+  <rect x="60" y="50" width="180" height="30" rx="2" fill="#333355"/>
+  <text x="150" y="70" text-anchor="middle" fill="#44cc11" font-family="monospace" font-size="10">REFURBSTATION</text>
+  <rect x="60" y="90" width="85" height="60" rx="2" fill="#333355"/>
+  <text x="102" y="115" text-anchor="middle" fill="#888" font-family="monospace" font-size="8">PHONES</text>
+  <rect x="155" y="90" width="85" height="60" rx="2" fill="#333355"/>
+  <text x="197" y="115" text-anchor="middle" fill="#888" font-family="monospace" font-size="8">LAPTOPS</text>
+  <rect x="60" y="160" width="180" height="25" rx="2" fill="#44cc11" opacity="0.2"/>
+  <text x="150" y="177" text-anchor="middle" fill="#44cc11" font-family="monospace" font-size="8">Project Tracker</text>
+  <rect x="60" y="190" width="180" height="25" rx="2" fill="#44cc11" opacity="0.15"/>
+  <text x="150" y="207" text-anchor="middle" fill="#44cc11" font-family="monospace" font-size="8">Diagnostic Tools</text>
+  <text x="420" y="80" text-anchor="middle" fill="#e6edf3" font-family="monospace" font-size="28" font-weight="bold">Refurbstation</text>
+  <text x="420" y="110" text-anchor="middle" fill="#44cc11" font-family="monospace" font-size="12">All-in-One Refurb Program</text>
+  <text x="420" y="150" text-anchor="middle" fill="#888" font-family="monospace" font-size="10">Track phone &amp; computer refurbs</text>
+  <text x="420" y="170" text-anchor="middle" fill="#888" font-family="monospace" font-size="10">Built-in diagnostic tools</text>
+  <text x="420" y="190" text-anchor="middle" fill="#888" font-family="monospace" font-size="10">Project management workflow</text>
+  <text x="420" y="210" text-anchor="middle" fill="#888" font-family="monospace" font-size="10">Parts inventory tracking</text>
+  <line x1="340" y1="235" x2="500" y2="235" stroke="#44cc11" stroke-width="1" opacity="0.3"/>
+  <text x="420" y="260" text-anchor="middle" fill="#44cc11" font-family="monospace" font-size="9" opacity="0.6">Desktop App</text>
+</svg>

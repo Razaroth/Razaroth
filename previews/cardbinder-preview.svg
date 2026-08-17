@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="300" viewBox="0 0 600 300">
+  <rect width="600" height="300" rx="8" fill="#1a1a2e"/>
+  <rect x="50" y="40" width="160" height="220" rx="4" fill="#2a2a3e" stroke="#44cc11" stroke-width="1"/>
+  <rect x="60" y="50" width="140" height="80" rx="2" fill="#333355"/>
+  <text x="130" y="100" text-anchor="middle" fill="#44cc11" font-family="monospace" font-size="12">POKEMON</text>
+  <rect x="60" y="140" width="140" height="30" rx="2" fill="#44cc11" opacity="0.2"/>
+  <text x="130" y="160" text-anchor="middle" fill="#44cc11" font-family="monospace" font-size="9">Charizard VMAX</text>
+  <rect x="60" y="180" width="140" height="20" rx="2" fill="#333355"/>
+  <text x="130" y="194" text-anchor="middle" fill="#888" font-family="monospace" font-size="8">$342.50</text>
+  <rect x="60" y="210" width="140" height="40" rx="2" fill="#333355"/>
+  <text x="130" y="235" text-anchor="middle" fill="#666" font-family="monospace" font-size="8">HP 330 | Fire</text>
+  <text x="370" y="80" text-anchor="middle" fill="#e6edf3" font-family="monospace" font-size="28" font-weight="bold">CardBinder</text>
+  <text x="370" y="110" text-anchor="middle" fill="#44cc11" font-family="monospace" font-size="12">TCG Collection Tracker</text>
+  <text x="370" y="150" text-anchor="middle" fill="#888" font-family="monospace" font-size="10">Book-style UI with page turning</text>
+  <text x="370" y="170" text-anchor="middle" fill="#888" font-family="monospace" font-size="10">Live TCGplayer market prices</text>
+  <text x="370" y="190" text-anchor="middle" fill="#888" font-family="monospace" font-size="10">Pokemon / MTG / Yu-Gi-Oh!</text>
+  <text x="370" y="210" text-anchor="middle" fill="#888" font-family="monospace" font-size="10">SQLite local storage</text>
+  <line x1="300" y1="240" x2="440" y2="240" stroke="#44cc11" stroke-width="1" opacity="0.3"/>
+  <text x="370" y="265" text-anchor="middle" fill="#44cc11" font-family="monospace" font-size="9" opacity="0.6">Node.js | Express | SQLite</text>
+</svg>

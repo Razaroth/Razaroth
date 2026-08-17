@@ -2,6 +2,8 @@
 
 > I am a 42 year old IT Professional/Programmer that loves to create plugins for Linux (specifically Omarchy).
 
+---
+
 ## ![](https://img.shields.io/badge/Tech_Stack-333333?style=for-the-badge)
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -19,16 +21,29 @@
 
 ## ![](https://img.shields.io/badge/Featured_Projects-44cc11?style=for-the-badge&labelColor=333333)
 
-| | |
-|:---:|:---:|
-| **[cardbinder](https://github.com/Razaroth/cardbinder)** | **[battleship](https://github.com/Razaroth/battleship)** |
-| Book-style TCG card collecting web app with animated page-turning UI | Battleship game built in Go |
-| JavaScript | Go |
-| **[omarchy-update-app-under-cursor](https://github.com/Razaroth/omarchy-update-app-under-cursor)** | **[image2stl](https://github.com/Razaroth/image2stl)** |
-| Omarchy plugin for updating apps under the cursor | A refined picture to STL file converter |
-| Shell | Python |
-| **[Refurbstation](https://github.com/Razaroth/Refurbstation)** | **[Cyberpunk-2077-MMORPG-Discord-Bot](https://github.com/Razaroth/Cyberpunk-2077-MMORPG-Discord-Bot)** |
-| All-in-one refurb program for phones and computers | An MMORPG built into a Discord bot |
+<a href="https://github.com/Razaroth/cardbinder">
+  <p align="center"><img src="previews/cardbinder-preview.svg" alt="CardBinder" width="600"></p>
+</a>
+
+<a href="https://github.com/Razaroth/battleship">
+  <p align="center"><img src="previews/battleship-preview.svg" alt="Battleship" width="600"></p>
+</a>
+
+<a href="https://github.com/Razaroth/omarchy-update-app-under-cursor">
+  <p align="center"><img src="previews/omarchy-update-preview.svg" alt="Omarchy Update App Under Cursor" width="600"></p>
+</a>
+
+<a href="https://github.com/Razaroth/image2stl">
+  <p align="center"><img src="previews/image2stl-preview.svg" alt="Image2STL" width="600"></p>
+</a>
+
+<a href="https://github.com/Razaroth/Refurbstation">
+  <p align="center"><img src="previews/refurbstation-preview.svg" alt="Refurbstation" width="600"></p>
+</a>
+
+<a href="https://github.com/Razaroth/Cyberpunk-2077-MMORPG-Discord-Bot">
+  <p align="center"><img src="previews/cyberpunk-preview.svg" alt="Cyberpunk MMORPG Bot" width="600"></p>
+</a>
 
 ---
 

@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="300" viewBox="0 0 600 300">
+  <rect width="600" height="300" rx="8" fill="#1a1a2e"/>
+  <rect x="50" y="40" width="200" height="200" rx="4" fill="#0d1117" stroke="#ff00ff" stroke-width="1" opacity="0.6"/>
+  <rect x="60" y="50" width="180" height="180" rx="2" fill="#110011"/>
+  <text x="150" y="80" text-anchor="middle" fill="#ff00ff" font-family="monospace" font-size="8" opacity="0.8">NIGHT CITY</text>
+  <rect x="70" y="90" width="70" height="40" rx="2" fill="#220022" stroke="#ff00ff" stroke-width="0.5" opacity="0.5"/>
+  <text x="105" y="115" text-anchor="middle" fill="#ff00ff" font-family="monospace" font-size="7" opacity="0.7">WATSON</text>
+  <rect x="150" y="90" width="70" height="40" rx="2" fill="#220022" stroke="#ff00ff" stroke-width="0.5" opacity="0.5"/>
+  <text x="185" y="115" text-anchor="middle" fill="#ff00ff" font-family="monospace" font-size="7" opacity="0.7">CITY CNTR</text>
+  <rect x="70" y="140" width="70" height="40" rx="2" fill="#220022" stroke="#ff00ff" stroke-width="0.5" opacity="0.5"/>
+  <text x="105" y="165" text-anchor="middle" fill="#ff00ff" font-family="monospace" font-size="7" opacity="0.7">PACIFICA</text>
+  <rect x="150" y="140" width="70" height="40" rx="2" fill="#220022" stroke="#ff00ff" stroke-width="0.5" opacity="0.5"/>
+  <text x="185" y="165" text-anchor="middle" fill="#ff00ff" font-family="monospace" font-size="7" opacity="0.7">SANTOS</text>
+  <text x="150" y="210" text-anchor="middle" fill="#44cc11" font-family="monospace" font-size="8">HP: 100 | EDDIES: 2500</text>
+  <text x="420" y="70" text-anchor="middle" fill="#ff00ff" font-family="monospace" font-size="20" font-weight="bold">Cyberpunk 2077</text>
+  <text x="420" y="100" text-anchor="middle" fill="#e6edf3" font-family="monospace" font-size="22" font-weight="bold">MMORPG Bot</text>
+  <text x="420" y="130" text-anchor="middle" fill="#44cc11" font-family="monospace" font-size="12">Discord Slash Commands</text>
+  <text x="420" y="160" text-anchor="middle" fill="#888" font-family="monospace" font-size="10">Turn-based combat &amp; PvP</text>
+  <text x="420" y="178" text-anchor="middle" fill="#888" font-family="monospace" font-size="10">Cyberware &amp; Humanity system</text>
+  <text x="420" y="196" text-anchor="middle" fill="#888" font-family="monospace" font-size="10">Factions, missions &amp; crafting</text>
+  <text x="420" y="214" text-anchor="middle" fill="#888" font-family="monospace" font-size="10">12 Night City districts</text>
+  <line x1="340" y1="235" x2="500" y2="235" stroke="#ff00ff" stroke-width="1" opacity="0.3"/>
+  <text x="420" y="260" text-anchor="middle" fill="#ff00ff" font-family="monospace" font-size="9" opacity="0.6">Python | Discord.py | SQLite</text>
+</svg>
