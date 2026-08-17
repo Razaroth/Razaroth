@@ -55,11 +55,11 @@
 
 ## ![](https://img.shields.io/badge/GitHub_Activity-333333?style=for-the-badge)
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Razaroth&show_icons=true&theme=dark&bg_color=0d1117&border_color=333333&title_color=44cc11&icon_color=44cc11&text_color=e6edf3&hide_border=false" alt="GitHub Stats"></p>
+<p align="center"><img src="https://github-stats.vercel.app/api?username=Razaroth" alt="GitHub Stats"></p>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Razaroth&layout=compact&theme=dark&bg_color=0d1117&border_color=333333&title_color=44cc11&text_color=e6edf3&langs_count=8" alt="Top Languages"></p>
+<p align="center"><img src="https://github-stats.vercel.app/api/top-langs?username=Razaroth&layout=compact&langs_count=8" alt="Top Languages"></p>
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Razaroth&theme=dark&background=0d1117&border=333333&ring=44cc11&fire=44cc11&currStreakLabel=44cc11&sideLabels=e6edf3" alt="Streak Stats"></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Razaroth&theme=dark" alt="Streak Stats"></p>
 
 ---
 
