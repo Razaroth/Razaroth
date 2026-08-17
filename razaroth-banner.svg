@@ -9,8 +9,8 @@
     </filter>
   </defs>
 
-  <!-- Background -->
-  <rect width="400" height="120" rx="8" fill="#1a1a2e"/>
+  <!-- Background (transparent) -->
+  <rect width="400" height="120" rx="8" fill="none"/>
 
   <!-- Left accent line -->
   <line x1="20" y1="25" x2="20" y2="95" stroke="#44cc11" stroke-width="2" opacity="0.6"/>
