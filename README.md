@@ -1,8 +1,6 @@
-# ![Razaroth](https://img.shields.io/badge/Razaroth-IT_Professional_/_Programmer-44cc11?style=for-the-badge&labelColor=333333)
+<p align="center"><img src="razaroth-banner.svg" alt="Razaroth Banner"></p>
 
 > I am a 42 year old IT Professional/Programmer that loves to create plugins for Linux (specifically Omarchy).
-
----
 
 ## ![](https://img.shields.io/badge/Tech_Stack-333333?style=for-the-badge)
 
