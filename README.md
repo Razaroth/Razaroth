@@ -46,10 +46,10 @@
 
 ## ![](https://img.shields.io/badge/Currently_Working_On-44cc11?style=for-the-badge&labelColor=333333)
 
-- ![](https://img.shields.io/badge/Linux-Plugin-Development-333333?style=flat-square&labelColor=44cc11) Omarchy plugins & tools
-- ![](https://img.shields.io/badge/Web_Apps-333333?style=flat-square&labelColor=44cc11) Full-stack projects
-- ![](https://img.shields.io/badge/Discord_Bots-333333?style=flat-square&labelColor=44cc11) Community bots & games
-- ![](https://img.shields.io/badge/3D_Printing_Tools-333333?style=flat-square&labelColor=44cc11) Image-to-STL conversion
+- ![](https://img.shields.io/badge/Status-Linux_Plugin_Development-333333?style=flat-square&labelColor=44cc11) Omarchy plugins & tools
+- ![](https://img.shields.io/badge/Status-Web_Apps-333333?style=flat-square&labelColor=44cc11) Full-stack projects
+- ![](https://img.shields.io/badge/Status-Discord_Bots-333333?style=flat-square&labelColor=44cc11) Community bots & games
+- ![](https://img.shields.io/badge/Status-3D_Printing_Tools-333333?style=flat-square&labelColor=44cc11) Image-to-STL conversion
 
 ---
 
